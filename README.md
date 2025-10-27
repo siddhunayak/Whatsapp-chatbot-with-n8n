@@ -61,6 +61,4 @@ You’ve built your own **AI-powered WhatsApp Chatbot** using:
 * **n8n automation**
 * **OpenAI conversational intelligence**
 
----
 
-Would you like me to format it so that it automatically links to the PDF file (e.g., `[Setup Guide PDF](./WhatsApp_AI_Chatbot_Setup.pdf)`) for GitHub?
